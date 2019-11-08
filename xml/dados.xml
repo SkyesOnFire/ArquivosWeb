@@ -1,0 +1,17 @@
+<login>
+	<usuario>
+		<nome> Andre Martins </nome>
+		<email>andre.martins@hotmail.com</email>
+		<senha>1234</senha>
+	</usuario>
+	<usuario>
+		<nome> Douglas Miranda </nome>
+		<email>douglas.miranda@hotmail.com</email>
+		<senha>4321</senha>
+	</usuario>
+	<usuario>
+		<nome> Teilor Miotto </nome>
+		<email>teilor_miotto@hotmail.com</email>
+		<senha>5555</senha>
+	</usuario>
+</login>

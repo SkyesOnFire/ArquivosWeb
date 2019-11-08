@@ -1,0 +1,97 @@
+table{
+	font-family: Anaheim;
+	width: 100%;
+	vertical-align: top;
+}
+
+table tr:nth-child(2n){
+	background-color: #d6eaf8;
+	height: 40px;
+}
+
+table tr:nth-child(2n+1){
+	background-color: #a3e4d7;
+	height: 40px;
+}
+
+table tr:first-child{
+	background-color: black;
+	height: 40px;
+}
+
+table tr:nth-child(2){
+	background-color: #f2f3f4;
+	height: 40px;
+}
+
+table td:first-child{
+	width: 20%;
+}
+
+.botao{
+	border: none;
+	background-color: transparent;
+	width: 100%;
+	padding: 10px;
+	font-size: 18px; 
+	font-family: Anaheim;
+	text-align: left;	
+	margin-top: 0px;
+}
+
+.botao:hover{
+	cursor: pointer;
+	background-color: #f2f3f4;
+}
+
+.botao2{
+	border: none;
+	background-color: transparent;
+	width: 100%;
+	padding: 10px;
+	font-size: 18px; 
+	font-family: Anaheim;
+	text-align: left;	
+	margin-top: 0px;
+}
+.botao2:hover{
+	background-color: black;
+	height: 40px;
+}
+
+input{
+	padding: 6px;
+	width: 150px;
+}
+
+.botaopesq{
+	padding: 5px;
+	border: none;
+	background-color: white;
+	border-radius: 3px;
+	margin-left: 5px;
+}
+
+.botaopesq:hover{
+	cursor: pointer;
+}
+
+#mensagem{
+	text-align: left;
+}
+
+#enviar{
+	border-radius: 5px;
+	background-color:black;
+	color: white;
+	font-size: 16px;
+	padding: 10px;
+	width: 100px;
+	border: none;
+}
+
+#enviar:hover{
+	cursor: pointer;
+	background-color: #f2f3f4;
+	color: black;
+}
